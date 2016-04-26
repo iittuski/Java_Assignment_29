@@ -1,0 +1,13 @@
+package j28;
+
+import java.util.ArrayList;
+
+public class j28 {
+	
+	public static void main(String args[]){
+	
+		ArrayList<String> arr = new ArrayList<>();
+		
+	}
+
+}
